@@ -1,0 +1,301 @@
+"Community_ID","Region","Dominant_Spice_Type","Altitude_Meters","Avg_Annual_Rainfall_MM","Soil_Organic_Matter_Percent","Avg_Temperature_Celsius","Water_Source_Reliability_Index","Organic_Certification_Status","Traditional_Methods_Adherence_Score","Post_Harvest_Processing_Tech_Level","Avg_Farm_Size_Hectares","Access_To_Electricity_Percent","Storage_Capacity_Index","Artisan_Skills_Training_Hours_Avg","Cooperative_Membership_Rate_Percent","Avg_Literacy_Rate_Percent","Youth_Engagement_Rate_Percent","Distance_To_Major_Market_KM","Road_Infrastructure_Quality_Score","Online_Sales_Channel_Usage_Percent","Local_Demand_Index","Export_Potential_Score"
+"Developing Market Connectors_58","Western Silk Route","Cumin",920,969,75.5,20,73,0,5,3,4.52220744095198,85,79,24,69,72,41,15,5,64,76,7
+"Lowland Volume Producers_70","Eastern Silk Route","Turmeric",315,1092,64.5,22,80,0,3,3,13.8866276644098,100,40,23,56,71,32,95,3,0,85,2
+"High-Altitude Artisan Specialists_75","Central Silk Route","Cardamom",2496,609,80.9,14,88,0,9,4,0.5,71,91,27,76,78,61,210,2,33,56,9
+"High-Altitude Artisan Specialists_62","Western Silk Route","Mountain Thyme",2304,493,90.3,11,99,1,8,3,2.98713596456452,68,69,45,89,82,59,204,4,58,67,8
+"High-Altitude Artisan Specialists_13","Western Silk Route","Saffron",2698,792,76.7,13,91,0,9,2,2.83660756027996,67,78,47,71,78,37,217,5,21,68,10
+"Developing Market Connectors_39","Western Silk Route","Ginger",774,870,59.6,20,72,1,7,5,3.56238966749929,90,49,30,64,91,65,150,3,98,76,8
+"High-Altitude Artisan Specialists_74","Western Silk Route","Cardamom",2789,821,77.6,11,100,1,10,2,0.5,66,81,29,75,98,49,228,4,25,97,9
+"High-Altitude Artisan Specialists_50","Western Silk Route","Cardamom",2582,822,81.2,13,92,1,9,3,3.32214768514033,71,100,41,81,82,46,203,3,22,70,5
+"High-Altitude Artisan Specialists_11","Western Silk Route","Saffron",2317,785,84.8,13,88,1,8,3,2.06486761730029,78,84,38,56,66,47,236,3,10,63,8
+"Lowland Volume Producers_26","Eastern Silk Route","Coriander",48,1192,64.3,26,57,0,5,4,14.4597042943911,81,53,16,45,79,33,10,2,28,79,8
+"Lowland Volume Producers_45","Eastern Silk Route","Turmeric",558,1084,39.5,26,66,0,6,4,14.9704901980182,75,52,20,53,68,25,10,1,7,89,4
+"Lowland Volume Producers_82","Central Silk Route","Coriander",442,1164,52,25,61,0,6,4,19.8640809980589,74,43,18,47,67,32,68,3,0,92,4
+"Developing Market Connectors_3","Western Silk Route","Cumin",708,966,57.6,22,83,1,6,4,4.98786073888097,76,78,23,73,67,58,92,5,53,90,4
+"Traditional Isolated Growers_23","Western Silk Route","Mixed Herbs",1441,854,85.4,19,69,1,10,2,7.41290727138604,27,27,20,,54,39,390,3,3,52,2
+"High-Altitude Artisan Specialists_34","Western Silk Route","Mountain Thyme",2559,663,83.1,11,83,1,10,4,2.67737663020557,71,66,30,81,71,39,232,4,18,61,8
+"High-Altitude Artisan Specialists_28","Western Silk Route","Cardamom",2434,691,77,13,91,1,9,3,3.66401210286547,91,84,40,87,74,36,175,4,21,56,7
+"Lowland Volume Producers_75","Central Silk Route","Turmeric",205,1017,63.8,25,79,0,3,4,14.5734011438875,77,52,17,52,76,28,102,2,19,98,3
+"High-Altitude Artisan Specialists_70","Western Silk Route","Saffron",2346,585,91.7,10,78,1,8,3,5.09346812963872,72,77,,71,86,51,136,3,37,81,8
+"Lowland Volume Producers_80","Central Silk Route","Cumin",320,1230,48.4,25,62,1,5,3,15.3905069904874,77,31,18,60,65,29,82,3,0,86,3
+"Traditional Isolated Growers_58","Central Silk Route","Local Peppers",1397,786,70.1,23,58,1,8,1,4.56723518663033,36,80,10,51,52,10,272,3,0,60,4
+"High-Altitude Artisan Specialists_21","Central Silk Route","Mountain Thyme",2405,692,79.5,8,90,,8,3,0.5,83,62,44,79,88,56,357,4,1,52,9
+"Developing Market Connectors_51","Western Silk Route","Cumin",912,847,76,22,87,1,5,5,2.6739633489543,81,56,15,75,63,70,125,3,74,96,5
+"Lowland Volume Producers_53","Eastern Silk Route","Turmeric",168,1145,55,26,67,0,4,4,16.4674664932242,87,58,0,52,63,27,10,2,,93,4
+"Developing Market Connectors_40","Eastern Silk Route","Ginger",1289,847,66,20,65,0,6,5,0.5,97,86,31,93,77,58,86,5,63,89,7
+"Developing Market Connectors_60","Western Silk Route","Cinnamon",630,967,68.9,17,77,0,5,5,5.22185206997306,77,85,21,81,67,53,111,5,69,74,5
+"Traditional Isolated Growers_3","Eastern Silk Route","Mixed Herbs",1492,891,76.4,20,62,1,9,2,7.68127078615281,43,61,13,35,58,19,352,2,0,64,4
+"Lowland Volume Producers_30","Eastern Silk Route","Turmeric",215,1117,57.1,21,74,0,5,4,13.4413114041304,100,50,32,51,72,6,59,4,19,94,4
+"High-Altitude Artisan Specialists_66","Western Silk Route","Mountain Thyme",2829,614,96,10,82,1,10,4,0.518897778385095,74,75,36,89,90,51,247,4,14,71,9
+"Lowland Volume Producers_84","Eastern Silk Route","Turmeric",480,1100,59.4,22,91,0,7,5,17.3046741156619,96,56,1,80,60,38,70,4,19,100,3
+"Developing Market Connectors_2","Western Silk Route","Cumin",821,911,75.6,21,79,1,5,5,4.7878684186453,90,66,21,65,70,59,60,5,85,77,7
+"Lowland Volume Producers_16","Central Silk Route","Turmeric",156,1137,50.8,22,61,0,6,4,12.1272184821554,100,42,16,57,64,0,108,4,5,96,3
+"Lowland Volume Producers_17","Central Silk Route","Cumin",30,1194,63.5,24,75,0,7,4,14.6121280736892,99,43,8,74,55,33,50,3,16,78,1
+"Traditional Isolated Growers_57","Western Silk Route","Mixed Herbs",1538,898,81.6,22,76,0,7,1,8.08939090069399,39,39,32,51,46,6,283,1,,61,1
+"Lowland Volume Producers_22","Eastern Silk Route","Turmeric",-44,1369,49,23,62,0,7,5,12.7678916645904,86,67,22,50,55,14,10,3,14,90,4
+"Developing Market Connectors_8","Western Silk Route","Cumin",803,1064,71.1,24,72,1,6,5,3.16046458350753,86,63,33,68,70,49,153,5,86,84,5
+"Lowland Volume Producers_35","Eastern Silk Route","Turmeric",139,1295,48.3,26,90,0,4,4,15.9912732727102,98,24,,55,60,39,80,3,0,94,3
+"Developing Market Connectors_43","Western Silk Route","Ginger",1003,839,67.2,19,79,0,7,4,8.12416057630122,90,69,28,52,77,70,145,3,69,95,4
+"High-Altitude Artisan Specialists_32","Central Silk Route","Cardamom",2381,565,80.1,9,87,1,10,4,3.63571108150499,48,57,51,74,74,39,223,4,,71,10
+"High-Altitude Artisan Specialists_5","Western Silk Route","Saffron",2357,722,82.2,13,87,1,10,3,0.5,79,100,37,66,83,53,220,4,17,85,9
+"High-Altitude Artisan Specialists_17","Western Silk Route","Saffron",2847,633,99.2,10,100,1,7,3,0.855791936183981,77,82,38,78,75,42,157,3,55,54,8
+"Lowland Volume Producers_89","Eastern Silk Route","Turmeric",136,1271,56.8,23,66,0,6,3,15.4110322738231,81,54,15,50,67,33,122,2,0,88,4
+"High-Altitude Artisan Specialists_30","Western Silk Route","Cardamom",2282,532,92.5,12,93,1,9,3,2.4528256094742,69,81,36,56,75,53,186,4,36,64,6
+"Developing Market Connectors_71","Eastern Silk Route","Ginger",1011,823,64.1,22,75,1,6,5,8.05744194504567,92,82,22,47,68,70,50,3,38,86,5
+"Developing Market Connectors_24","Western Silk Route","Ginger",741,854,70.3,19,88,,7,5,7.34927292014604,98,76,36,62,75,52,204,4,92,74,3
+"Developing Market Connectors_48","Western Silk Route","Ginger",793,1039,78.2,22,71,1,9,5,5.80781603000629,69,100,32,66,65,48,59,4,74,84,4
+"Traditional Isolated Growers_51","Eastern Silk Route","Local Peppers",1956,647,75.6,14,63,1,8,3,5.93204372724605,49,49,15,40,55,30,301,1,7,56,1
+"High-Altitude Artisan Specialists_65","Western Silk Route","Saffron",2491,682,85,11,97,1,8,4,1.38797928657037,75,78,42,74,82,43,121,4,32,50,9
+"Traditional Isolated Growers_48","Western Silk Route","Local Peppers",1813,922,65.2,21,42,0,10,1,9.66545429181582,38,48,20,59,42,10,340,3,0,69,2
+"Developing Market Connectors_17","Eastern Silk Route","Cumin",465,1043,62.5,24,63,0,7,5,0.5,84,68,21,,71,73,142,4,62,65,6
+"High-Altitude Artisan Specialists_14","Western Silk Route","Saffron",2831,715,86.1,16,94,1,10,3,2.55050001872363,77,72,43,73,94,43,127,5,32,79,8
+"Lowland Volume Producers_63","Eastern Silk Route","Turmeric",318,1284,66.8,24,67,,6,5,15.9385537672406,87,70,9,60,61,23,111,5,0,77,2
+"Lowland Volume Producers_67","Central Silk Route","Turmeric",165,1237,60,24,71,0,7,2,13.1545050662541,100,70,23,58,67,60,10,2,40,90,4
+"Developing Market Connectors_15","Western Silk Route","Ginger",952,940,82.6,17,82,0,6,5,4.66220458323781,78,79,26,68,75,72,31,4,66,62,4
+"Developing Market Connectors_63","Eastern Silk Route","Cumin",901,951,75.7,20,77,0,7,4,8.90277164419696,71,90,16,73,77,58,45,3,90,96,6
+"High-Altitude Artisan Specialists_10","Western Silk Route","Saffron",2615,771,90.5,12,88,1,10,3,3.52832781879191,86,77,50,73,88,38,170,5,31,63,7
+"Lowland Volume Producers_29","Eastern Silk Route","Turmeric",202,1132,50.9,23,74,0,6,4,14.6882436481938,100,65,16,50,59,33,56,3,30,100,5
+"Traditional Isolated Growers_59","Western Silk Route","Mixed Herbs",1474,934,88.1,18,48,0,7,1,5.83373368293431,33,27,5,58,56,0,283,2,9,55,1
+"Lowland Volume Producers_13","Eastern Silk Route","Turmeric",382,1208,53.9,28,69,0,6,2,18.3537413755052,78,41,,56,66,30,10,3,22,86,1
+"Developing Market Connectors_52","Western Silk Route","Ginger",995,1000,64.6,18,86,0,6,5,2.96546819684201,85,52,40,55,77,68,18,4,74,70,6
+"Developing Market Connectors_19","Eastern Silk Route","Cumin",1013,1084,68.1,21,86,0,7,5,8.4450821681116,77,70,29,53,73,61,187,5,52,74,8
+"Developing Market Connectors_38","Western Silk Route","Ginger",959,904,88.8,21,72,1,8,5,4.29344085303893,88,82,34,63,75,52,99,4,54,95,5
+"High-Altitude Artisan Specialists_16","Western Silk Route","Saffron",2889,653,75.9,16,94,1,9,2,0.5,65,76,25,100,74,37,177,5,18,72,9
+"Lowland Volume Producers_59","Eastern Silk Route","Turmeric",254,1274,71.7,25,83,0,5,3,14.060378441875,99,42,10,59,46,48,52,5,22,94,6
+"Developing Market Connectors_55","Eastern Silk Route","Cinnamon",871,875,73.9,21,70,0,6,4,5.87906475862818,82,65,41,54,80,57,69,3,64,73,7
+"Developing Market Connectors_35","Eastern Silk Route","Ginger",692,1115,68,18,72,0,4,5,5.28332813818218,85,83,30,75,66,64,190,5,73,76,9
+"Lowland Volume Producers_39","Central Silk Route","Coriander",271,1050,65.5,27,74,0,2,5,15.7112041436954,100,59,15,54,66,18,84,3,0,86,6
+"Traditional Isolated Growers_55","Central Silk Route","Mixed Herbs",1532,784,82.1,19,43,0,6,1,8.9248415110974,52,27,4,41,41,29,270,2,46,55,3
+"Traditional Isolated Growers_10","Central Silk Route","Mixed Herbs",1317,807,61.3,19,45,1,7,3,7.29218254341683,36,36,13,27,49,26,291,3,0,53,1
+"High-Altitude Artisan Specialists_31","Western Silk Route","Saffron",2394,812,73.9,11,100,1,9,3,5.01078137267207,76,71,51,76,85,54,195,4,26,51,10
+"Lowland Volume Producers_15","Eastern Silk Route","Cumin",571,1018,50.7,28,73,0,6,4,14.2314647834647,99,56,5,57,79,47,128,4,28,81,2
+"High-Altitude Artisan Specialists_55","Western Silk Route","Cardamom",2624,736,84.4,12,100,1,7,5,2.68162846656816,82,84,45,67,71,33,223,4,45,86,7
+"High-Altitude Artisan Specialists_8","Western Silk Route","Saffron",2550,902,86.8,14,77,1,7,4,0.5,78,75,38,63,76,50,153,4,29,85,8
+"High-Altitude Artisan Specialists_24","Central Silk Route","Cardamom",2542,812,87.5,10,87,1,8,5,0.5,65,65,39,66,78,53,138,3,44,63,8
+"Developing Market Connectors_16","Western Silk Route","Cinnamon",646,1102,73.7,20,86,1,6,4,5.95884583691511,100,66,23,49,74,59,27,2,78,73,8
+"Lowland Volume Producers_76","Central Silk Route","Cumin",415,1245,48,25,59,0,6,4,13.8719748280388,89,73,10,59,58,30,99,3,12,82,1
+"High-Altitude Artisan Specialists_38","Western Silk Route","Mountain Thyme",2472,585,93.3,13,93,1,10,2,1.67904362624205,83,80,33,74,81,29,235,5,7,65,7
+"Traditional Isolated Growers_13","Central Silk Route","Local Peppers",1207,947,85,20,43,1,9,2,10.0407894625585,45,65,11,32,60,16,268,1,0,51,4
+"Traditional Isolated Growers_33","Central Silk Route","Wild Mint",1594,870,75.3,18,78,0,9,2,4.70778238671793,40,76,11,39,39,43,237,3,,50,2
+"High-Altitude Artisan Specialists_7","Central Silk Route","Saffron",2638,656,94.5,11,79,1,8,3,6.93797065913264,66,86,31,73,78,48,218,3,22,77,7
+"Lowland Volume Producers_31","Eastern Silk Route","Coriander",475,1319,46.8,29,67,,6,4,18.7851378630899,98,52,9,43,54,33,14,3,32,100,2
+"High-Altitude Artisan Specialists_64","Western Silk Route","Saffron",2679,622,80.6,10,98,1,9,1,2.98894622994361,73,99,35,76,70,34,177,4,28,69,7
+"Lowland Volume Producers_66","Eastern Silk Route","Cumin",74,1003,70.8,22,58,0,4,4,16.9795242304066,92,66,18,50,70,7,115,3,21,83,3
+"Developing Market Connectors_7","Western Silk Route","Cumin",974,859,78.1,20,78,0,7,4,3.07606078642279,86,67,40,60,84,62,114,4,93,70,5
+"Lowland Volume Producers_3","Eastern Silk Route","Cumin",279,1245,37.4,27,86,0,5,5,17.8145254238898,86,60,14,60,63,40,26,3,0,98,5
+"Developing Market Connectors_49","Western Silk Route","Ginger",915,993,77.3,16,73,0,9,5,5.64764128663018,85,59,26,70,61,62,116,4,92,78,4
+"Traditional Isolated Growers_34","Central Silk Route","Wild Mint",1437,771,73.3,20,69,1,7,3,7.52718340759858,22,47,3,38,57,25,404,3,5,59,2
+"Developing Market Connectors_50","Western Silk Route","Cinnamon",269,1160,68.4,19,76,0,6,4,4.14529319857503,86,81,32,62,68,55,28,3,38,81,5
+"Developing Market Connectors_66","Western Silk Route","Cumin",901,1050,44.7,20,82,0,9,5,9.68011534569074,86,71,47,74,80,63,168,3,79,76,8
+"Traditional Isolated Growers_4","Central Silk Route","Mixed Herbs",1561,678,64.9,18,60,0,9,2,6.38493901962192,18,48,15,35,54,34,258,2,0,73,1
+"Developing Market Connectors_64","Western Silk Route","Cumin",496,949,67.9,21,98,0,10,5,4.19194402575732,83,77,29,78,65,69,153,5,75,79,6
+"High-Altitude Artisan Specialists_26","Western Silk Route","Cardamom",2727,712,82.4,12,92,1,8,4,2.64130308593869,68,83,39,78,71,33,133,4,53,61,6
+"Traditional Isolated Growers_21","Eastern Silk Route","Wild Mint",1068,741,74.7,17,67,1,8,1,5.45038511035377,54,18,0,,40,6,372,1,0,50,2
+"Traditional Isolated Growers_40","Eastern Silk Route","Mixed Herbs",1326,887,84.7,19,65,0,9,1,6.35042432882031,45,50,17,37,65,19,268,3,,66,3
+"Traditional Isolated Growers_22","Eastern Silk Route","Local Peppers",1595,629,69.8,17,76,1,9,1,5.49230223575308,29,85,,26,46,12,354,2,0,55,1
+"Lowland Volume Producers_62","Central Silk Route","Turmeric",168,1320,53.9,27,40,0,5,5,13.5215317378104,90,65,13,60,73,9,30,3,24,99,1
+"Lowland Volume Producers_71","Central Silk Route","Cumin",375,1144,55.4,22,57,,4,5,13.7766470930604,93,57,13,73,67,25,41,3,,94,2
+"Developing Market Connectors_45","Eastern Silk Route","Cumin",506,843,75,19,68,1,6,5,3.8671641626247,97,52,29,50,64,48,127,4,99,90,5
+"High-Altitude Artisan Specialists_43","Western Silk Route","Saffron",2450,821,94.9,15,84,1,9,4,1.47984429507,72,71,18,78,81,46,176,5,47,76,10
+"High-Altitude Artisan Specialists_59","Central Silk Route","Cardamom",2608,625,85.8,12,98,1,10,4,0.5,79,66,29,,79,50,163,3,33,70,8
+"Lowland Volume Producers_86","Eastern Silk Route","Coriander",320,1076,64.2,24,61,0,5,3,15.4931790597833,91,28,6,45,62,61,51,3,0,80,3
+"High-Altitude Artisan Specialists_57","Central Silk Route","Saffron",2417,815,80.5,12,97,1,10,3,2.03888424803004,47,45,51,86,89,55,258,4,,74,10
+"Traditional Isolated Growers_18","Central Silk Route","Mixed Herbs",1409,832,88.6,18,60,0,10,1,7.205653433449,41,53,11,42,50,20,259,1,0,53,3
+"Developing Market Connectors_30","Western Silk Route","Ginger",1007,939,88,22,73,1,10,5,0.5,97,48,34,56,70,78,137,4,83,100,6
+"Lowland Volume Producers_81","Eastern Silk Route","Cumin",142,1124,66.4,27,78,0,3,5,15.060960781898,78,72,6,57,67,33,92,4,17,90,4
+"High-Altitude Artisan Specialists_49","Western Silk Route","Cardamom",2265,731,87.2,15,93,1,9,4,1.96346563215685,61,68,47,69,91,44,174,5,17,76,8
+"Lowland Volume Producers_87","Eastern Silk Route","Turmeric",24,1166,69,22,77,0,4,5,14.56422002681,80,45,25,44,82,20,99,4,0,80,5
+"Developing Market Connectors_29","Western Silk Route","Cinnamon",676,952,65.8,22,82,1,4,4,7.52140766612753,84,82,28,74,73,61,99,4,84,96,4
+"High-Altitude Artisan Specialists_54","Central Silk Route","Mountain Thyme",2679,732,81.8,10,100,1,10,3,0.5,66,100,36,79,63,52,163,3,49,77,7
+"High-Altitude Artisan Specialists_45","Central Silk Route","Saffron",2916,590,81.3,14,76,1,10,2,0.908799034877598,80,93,31,86,77,55,149,4,,56,9
+"High-Altitude Artisan Specialists_48","Western Silk Route","Saffron",2654,786,76.5,8,82,1,9,3,1.72610814809505,84,59,42,58,64,64,152,5,0,79,9
+"High-Altitude Artisan Specialists_3","Central Silk Route","Cardamom",2660,615,81,9,83,1,9,2,3.96933103266714,62,75,28,54,86,51,150,4,42,69,8
+"High-Altitude Artisan Specialists_15","Western Silk Route","Cardamom",2212,676,90.5,10,95,1,9,3,5.78608559861518,68,87,24,58,72,41,213,4,32,80,9
+"Developing Market Connectors_22","Western Silk Route","Cinnamon",1241,928,64.3,17,80,0,8,5,6.98219450070467,96,69,24,70,69,59,89,3,66,77,6
+"High-Altitude Artisan Specialists_40","Central Silk Route","Mountain Thyme",2492,781,93,14,87,1,9,4,0.5,84,70,32,,66,51,170,4,26,59,9
+"High-Altitude Artisan Specialists_72","Western Silk Route","Cardamom",2492,852,96.2,12,73,1,8,3,6.49321619276499,59,50,39,66,84,51,236,3,,54,10
+"Developing Market Connectors_67","Eastern Silk Route","Cumin",905,904,50.8,21,74,0,8,5,6.86762908687227,94,83,21,62,94,55,156,3,68,74,8
+"Lowland Volume Producers_74","Central Silk Route","Turmeric",245,1143,77,25,60,1,7,3,15.0106927818001,100,29,3,60,74,44,113,4,,83,3
+"Traditional Isolated Growers_53","Eastern Silk Route","Mixed Herbs",1852,773,73.9,17,85,1,9,1,7.05743473573349,48,50,3,39,52,14,271,2,14,55,2
+"Lowland Volume Producers_65","Eastern Silk Route","Coriander",206,1265,59.2,27,61,0,7,2,13.9672111624175,98,76,14,54,72,29,10,3,27,88,4
+"Developing Market Connectors_18","Eastern Silk Route","Ginger",814,929,68.2,20,78,0,7,5,6.48195895828022,95,62,44,59,83,45,187,3,48,73,6
+"Traditional Isolated Growers_42","Eastern Silk Route","Local Peppers",1612,693,65.8,14,48,0,7,1,8.36510593738486,53,52,4,41,56,27,268,3,7,78,3
+"Traditional Isolated Growers_16","Western Silk Route","Mixed Herbs",1651,568,80.8,18,56,,9,3,9.48130809696478,33,59,13,53,43,41,299,2,3,66,5
+"Lowland Volume Producers_55","Eastern Silk Route","Turmeric",176,1116,69.2,27,65,0,7,4,14.077609303513,100,78,24,52,54,21,10,2,8,92,1
+"Lowland Volume Producers_46","Eastern Silk Route","Turmeric",31,1363,64.4,24,68,1,5,3,14.740146091078,86,62,13,57,70,37,81,2,35,97,4
+"Traditional Isolated Growers_36","Eastern Silk Route","Local Peppers",1554,904,78.5,17,52,1,9,1,8.60859277183532,37,72,27,43,49,20,280,1,25,72,1
+"Traditional Isolated Growers_46","Central Silk Route","Mixed Herbs",1559,748,57.6,15,52,0,10,2,10.4460481733692,35,51,,48,50,19,260,2,11,46,3
+"High-Altitude Artisan Specialists_29","Western Silk Route","Saffron",2797,707,66.5,10,96,1,9,3,4.01203411270625,60,92,,62,78,52,194,4,42,69,5
+"Developing Market Connectors_41","Eastern Silk Route","Cinnamon",561,958,85.2,19,76,1,7,5,3.09506065827743,98,72,18,52,85,69,102,5,66,79,5
+"Developing Market Connectors_14","Western Silk Route","Cumin",899,927,73.6,18,82,1,7,5,9.6679372450137,80,87,33,72,74,73,116,4,75,78,6
+"Traditional Isolated Growers_27","Eastern Silk Route","Local Peppers",1393,792,69.4,20,61,0,8,1,8.57228963132806,41,44,15,34,45,29,393,2,9,62,2
+"Lowland Volume Producers_61","Eastern Silk Route","Turmeric",-72,1214,53.1,25,58,1,4,5,12.1839626537659,85,58,16,45,72,41,29,3,0,83,2
+"Traditional Isolated Growers_43","Central Silk Route","Mixed Herbs",1435,886,64.9,17,63,0,7,2,6.40065670741603,57,46,,29,60,15,288,3,3,71,5
+"Lowland Volume Producers_58","Eastern Silk Route","Turmeric",229,1206,63.3,26,81,0,6,4,13.5114760319013,95,35,17,63,78,28,54,4,14,86,3
+"Developing Market Connectors_61","Eastern Silk Route","Cumin",1054,1066,63,22,83,0,9,5,6.75916690690423,93,57,22,53,74,74,43,5,76,84,5
+"High-Altitude Artisan Specialists_41","Western Silk Route","Saffron",2494,798,79.4,12,89,1,10,4,4.05146908562308,65,70,49,68,77,45,182,5,16,53,6
+"High-Altitude Artisan Specialists_36","Central Silk Route","Saffron",2863,619,84.2,14,81,1,10,4,3.662478964343,62,70,36,67,83,38,241,4,14,63,8
+"Developing Market Connectors_68","Eastern Silk Route","Cinnamon",529,1001,76.6,19,88,1,5,4,5.02694616462355,70,67,33,51,71,53,94,4,62,91,4
+"Traditional Isolated Growers_15","Central Silk Route","Mixed Herbs",1471,717,76.9,16,67,1,7,3,10.0288034008929,38,35,9,36,53,19,279,3,0,40,2
+"Traditional Isolated Growers_20","Western Silk Route","Mixed Herbs",1406,766,68.9,19,66,0,9,2,10.9582646522891,37,40,18,,48,29,285,2,1,65,3
+"Developing Market Connectors_53","Eastern Silk Route","Cumin",697,880,57.2,20,75,0,3,5,8.6737269217552,85,98,24,57,75,35,108,3,75,80,6
+"Developing Market Connectors_69","Western Silk Route","Cinnamon",627,905,55.8,23,75,0,7,5,1.05956378758151,75,63,27,61,64,79,100,4,,85,7
+"High-Altitude Artisan Specialists_27","Western Silk Route","Saffron",2407,787,73.7,12,83,1,10,4,4.58963906496373,59,64,37,93,79,66,162,5,31,54,7
+"Traditional Isolated Growers_44","Central Silk Route","Local Peppers",1375,833,80,17,56,,9,3,5.74575281021089,28,20,13,48,47,30,225,1,,66,2
+"High-Altitude Artisan Specialists_25","Central Silk Route","Mountain Thyme",2493,683,72.6,13,100,1,7,3,2.13875750607279,74,79,,60,81,42,208,4,18,71,6
+"High-Altitude Artisan Specialists_35","Western Silk Route","Saffron",2534,735,93.6,13,100,1,10,3,0.804397400436215,72,89,,77,83,53,148,3,32,93,8
+"Lowland Volume Producers_5","Central Silk Route","Cumin",-45,1238,79.2,26,61,0,6,3,12.7666851422362,84,84,14,48,71,43,91,4,,81,2
+"High-Altitude Artisan Specialists_18","Western Silk Route","Saffron",2577,836,84.2,10,91,1,9,2,1.12563751890918,65,78,42,73,71,59,148,4,39,73,9
+"High-Altitude Artisan Specialists_12","Western Silk Route","Saffron",2762,551,76.2,10,99,0,9,3,2.04557695513862,72,94,41,83,79,42,145,3,33,66,10
+"Developing Market Connectors_26","Western Silk Route","Cumin",593,995,65.9,19,87,1,7,5,2.25915811928756,97,41,22,73,63,62,87,2,76,69,4
+"Developing Market Connectors_27","Eastern Silk Route","Cinnamon",1074,976,73.9,20,76,0,9,5,4.21611914177246,89,33,29,,88,58,119,5,85,78,4
+"Developing Market Connectors_46","Western Silk Route","Cumin",659,1039,75.4,21,79,0,5,5,4.91306113619242,100,58,13,64,79,44,42,5,63,94,6
+"Developing Market Connectors_32","Western Silk Route","Ginger",1048,974,59.8,21,88,1,6,5,2.47814234459571,98,69,,53,79,55,126,2,,81,4
+"Lowland Volume Producers_41","Eastern Silk Route","Coriander",22,1139,56.7,26,80,0,5,3,17.0663008035039,80,50,26,,74,26,50,3,0,75,4
+"Developing Market Connectors_44","Eastern Silk Route","Cinnamon",853,1013,63,20,79,0,7,5,1.57824475697561,100,75,49,67,67,56,101,3,83,82,4
+"Traditional Isolated Growers_35","Central Silk Route","Wild Mint",1204,720,72.1,17,55,1,8,1,4.88448324055908,22,39,19,26,45,21,351,4,27,56,1
+"Lowland Volume Producers_60","Eastern Silk Route","Turmeric",-68,1269,56.1,24,78,0,3,4,17.5870803830519,69,49,24,52,68,36,62,3,28,95,2
+"Lowland Volume Producers_47","Central Silk Route","Cumin",340,1347,53.3,27,63,0,3,3,14.3649599641645,84,40,41,73,69,10,10,3,33,84,4
+"Developing Market Connectors_9","Eastern Silk Route","Ginger",872,960,68.7,16,65,,7,3,5.89608230029295,91,67,27,74,81,67,206,5,74,70,4
+"Lowland Volume Producers_33","Eastern Silk Route","Cumin",185,1073,68.6,26,69,1,6,5,11.1868514377433,91,37,11,58,75,13,10,3,2,92,4
+"High-Altitude Artisan Specialists_46","Central Silk Route","Mountain Thyme",2524,672,95,7,88,1,6,2,0.5,83,85,49,70,73,68,224,5,28,71,9
+"High-Altitude Artisan Specialists_58","Central Silk Route","Cardamom",2812,650,86,16,99,1,8,3,0.5,89,95,37,74,74,45,247,5,16,67,8
+"Lowland Volume Producers_28","Central Silk Route","Turmeric",506,1254,34,26,62,0,6,5,13.5383866088471,89,73,19,56,77,35,11,4,38,87,4
+"Lowland Volume Producers_78","Central Silk Route","Coriander",432,1269,67.3,23,53,0,5,4,12.9516426561283,91,67,16,67,65,29,118,2,,90,2
+"Lowland Volume Producers_24","Central Silk Route","Coriander",377,1070,57.1,23,81,0,6,3,14.043316383903,90,37,,43,57,32,101,4,23,65,3
+"Lowland Volume Producers_49","Eastern Silk Route","Cumin",215,1283,65.9,26,74,0,6,4,13.4134330021974,92,69,16,65,65,8,44,1,62,88,4
+"High-Altitude Artisan Specialists_19","Western Silk Route","Mountain Thyme",2956,841,66.4,14,97,1,9,3,3.79350738581652,66,100,42,,73,60,240,3,29,52,5
+"High-Altitude Artisan Specialists_22","Central Silk Route","Saffron",2157,781,91.6,14,87,1,6,4,2.09527745460931,78,73,55,75,88,50,210,3,38,82,7
+"Lowland Volume Producers_14","Eastern Silk Route","Turmeric",120,1205,64.7,23,61,0,5,4,15.4793790052915,97,76,20,,57,39,10,2,35,87,2
+"High-Altitude Artisan Specialists_37","Central Silk Route","Saffron",2368,682,93.6,11,100,1,8,3,5.25423484962376,79,82,34,80,82,45,183,4,18,69,8
+"High-Altitude Artisan Specialists_42","Western Silk Route","Mountain Thyme",2579,785,92.3,10,86,1,6,3,0.921478095635074,74,95,41,81,83,36,180,5,15,79,9
+"Developing Market Connectors_33","Western Silk Route","Cinnamon",1154,995,88.4,18,81,0,9,4,5.61698390519955,84,69,,60,84,59,54,3,73,83,6
+"High-Altitude Artisan Specialists_23","Central Silk Route","Cardamom",2215,750,94.5,13,96,1,7,1,1.51208192941582,86,70,42,82,78,48,162,4,30,56,9
+"Developing Market Connectors_74","Western Silk Route","Cumin",842,902,72.9,18,81,0,8,5,6.14223344955356,100,83,26,83,62,82,39,5,68,84,7
+"Traditional Isolated Growers_54","Eastern Silk Route","Mixed Herbs",1919,711,76,19,80,,10,2,7.94315506580693,37,62,,53,63,33,282,2,0,58,1
+"Lowland Volume Producers_83","Eastern Silk Route","Turmeric",173,1135,61.9,22,73,0,4,4,14.797676163441,81,37,13,53,79,17,103,4,23,86,2
+"Lowland Volume Producers_7","Eastern Silk Route","Cumin",209,1324,60.4,27,63,0,3,5,16.2199475961991,100,51,8,63,60,33,17,3,19,92,5
+"Traditional Isolated Growers_50","Central Silk Route","Mixed Herbs",1474,925,58.2,19,63,0,10,3,9.12504488618921,37,63,6,45,37,9,325,2,0,69,4
+"Traditional Isolated Growers_31","Eastern Silk Route","Mixed Herbs",1749,737,81.8,20,59,1,8,2,4.05012888305033,38,53,21,45,55,10,358,1,15,66,2
+"Traditional Isolated Growers_32","Central Silk Route","Wild Mint",1390,728,87,19,72,0,5,1,9.99540648965495,33,27,0,49,50,36,221,4,,55,5
+"Lowland Volume Producers_51","Eastern Silk Route","Cumin",320,1211,73.8,23,82,0,5,4,16.6631439894799,93,30,11,66,69,42,10,4,0,90,6
+"Developing Market Connectors_62","Western Silk Route","Ginger",810,932,59.7,22,80,0,6,5,4.65987914267857,100,91,27,80,76,63,56,3,92,85,6
+"High-Altitude Artisan Specialists_44","Central Silk Route","Saffron",2517,557,90.8,13,100,1,9,3,2.02105612825058,76,100,,66,61,55,281,4,49,60,9
+"Traditional Isolated Growers_38","Western Silk Route","Local Peppers",1403,809,79.1,17,42,1,10,2,8.62268485841141,46,45,16,38,56,29,250,1,0,63,2
+"Lowland Volume Producers_48","Eastern Silk Route","Turmeric",491,1112,69.1,26,77,0,6,5,18.551537896949,79,52,26,53,63,33,10,2,17,90,5
+"Lowland Volume Producers_34","Eastern Silk Route","Turmeric",617,1095,57.4,26,55,0,6,4,12.50078981541,78,67,22,52,74,29,120,4,5,97,4
+"Developing Market Connectors_13","Eastern Silk Route","Cumin",806,993,61.5,17,81,0,8,5,2.98943667077522,84,51,,71,84,73,108,5,82,72,7
+"Traditional Isolated Growers_11","Western Silk Route","Wild Mint",1780,799,69.9,17,73,1,8,2,9.41859056073401,34,37,13,55,49,6,358,1,45,80,5
+"High-Altitude Artisan Specialists_63","Central Silk Route","Saffron",2460,657,90.6,12,83,1,9,3,1.20000739375059,90,63,16,70,76,50,158,4,43,78,9
+"Lowland Volume Producers_25","Eastern Silk Route","Turmeric",173,1145,63.4,25,72,0,5,4,14.4386693475652,77,77,14,,52,22,43,4,4,76,4
+"Traditional Isolated Growers_6","Western Silk Route","Mixed Herbs",1643,845,78.8,19,50,0,8,1,6.26731425672838,39,42,24,61,50,15,310,1,18,65,1
+"Lowland Volume Producers_88","Eastern Silk Route","Cumin",237,1414,52.3,23,67,0,4,5,12.4895976386792,73,71,7,42,80,28,104,4,7,80,1
+"Lowland Volume Producers_43","Eastern Silk Route","Cumin",134,1258,63.6,24,57,,5,3,13.6563313370381,77,27,11,51,55,27,20,4,35,75,4
+"Lowland Volume Producers_85","Eastern Silk Route","Turmeric",109,1091,64.1,26,73,1,3,5,12.6208324753955,72,79,7,43,66,45,112,3,4,89,1
+"Traditional Isolated Growers_5","Central Silk Route","Mixed Herbs",1517,806,73,17,51,0,8,3,4.73965902459279,21,36,0,48,43,34,300,2,0,62,4
+"High-Altitude Artisan Specialists_69","Western Silk Route","Saffron",2391,834,86,12,83,1,8,4,7.24292657526161,55,99,32,,64,59,246,4,15,87,7
+"Developing Market Connectors_36","Eastern Silk Route","Cumin",628,1066,62.3,22,83,0,4,4,7.24903929425147,78,69,38,66,87,54,10,5,78,78,10
+"Lowland Volume Producers_69","Eastern Silk Route","Cumin",494,1251,74.3,27,67,0,5,4,15.8711910459145,87,63,,61,57,37,79,3,,100,4
+"Lowland Volume Producers_1","Eastern Silk Route","Turmeric",361,1117,75.3,27,56,0,6,4,17.5221799608269,96,54,10,48,68,12,43,3,38,100,4
+"Lowland Volume Producers_68","Central Silk Route","Turmeric",273,1205,63.4,25,72,0,5,4,12.6809427391716,100,37,15,45,57,32,66,3,38,100,5
+"Developing Market Connectors_4","Eastern Silk Route","Cumin",770,994,81.8,22,64,,6,5,5.95215587639615,74,84,34,49,71,56,127,4,81,95,3
+"High-Altitude Artisan Specialists_68","Western Silk Route","Saffron",2214,837,88.7,14,84,1,10,3,3.21998232756016,78,99,39,54,74,68,280,4,29,72,7
+"Lowland Volume Producers_40","Eastern Silk Route","Cumin",490,1031,67,25,66,0,6,5,15.2008300879507,73,76,15,50,51,31,10,3,10,100,5
+"Developing Market Connectors_42","Eastern Silk Route","Ginger",725,976,72.2,20,69,1,7,5,3.60376749829859,89,98,27,45,81,54,235,5,52,89,6
+"Traditional Isolated Growers_14","Western Silk Route","Local Peppers",1386,795,66.3,21,54,1,8,2,5.58265389968511,30,60,,47,37,21,264,2,9,79,1
+"High-Altitude Artisan Specialists_61","Central Silk Route","Saffron",2049,597,94.5,11,98,0,10,3,0.5,75,74,42,74,73,48,201,5,37,77,8
+"Developing Market Connectors_59","Western Silk Route","Cinnamon",836,987,73.7,20,77,0,4,4,2.26762484762047,93,66,24,54,67,60,21,4,78,88,7
+"High-Altitude Artisan Specialists_47","Western Silk Route","Cardamom",2524,636,83.4,12,91,1,6,3,2.4280411265416,77,91,41,,85,37,235,4,47,79,10
+"Developing Market Connectors_72","Eastern Silk Route","Cinnamon",889,816,51.4,23,71,1,8,5,4.0103032117881,79,66,47,71,79,55,123,3,83,85,6
+"Lowland Volume Producers_56","Eastern Silk Route","Turmeric",498,1330,56.1,25,74,0,6,4,17.301725395501,94,43,34,62,64,42,19,3,2,73,3
+"Developing Market Connectors_21","Western Silk Route","Ginger",939,953,76.2,19,73,0,9,5,6.44575334692874,86,81,39,71,70,52,81,4,,75,7
+"Lowland Volume Producers_11","Eastern Silk Route","Cumin",405,1201,63.4,27,71,0,5,3,11.95381111692,100,83,14,59,70,31,42,2,0,99,3
+"Developing Market Connectors_20","Eastern Silk Route","Cinnamon",757,1041,66.6,23,75,0,7,5,7.35587294429529,80,60,,58,68,76,152,4,70,91,5
+"Lowland Volume Producers_64","Eastern Silk Route","Turmeric",672,1368,50.7,26,76,0,5,4,17.7043635043516,100,45,30,53,72,41,10,3,20,85,4
+"High-Altitude Artisan Specialists_4","Western Silk Route","Saffron",2222,597,72.5,15,100,1,7,3,6.64217527760281,58,81,29,75,83,44,192,3,20,70,8
+"Traditional Isolated Growers_8","Eastern Silk Route","Mixed Herbs",1374,719,81.2,16,77,0,10,1,3.8237778487351,49,45,11,,65,2,344,2,0,69,1
+"Traditional Isolated Growers_60","Western Silk Route","Local Peppers",1170,752,81.7,18,68,0,9,1,6.60498927849162,24,47,5,57,67,26,246,2,,62,4
+"Lowland Volume Producers_12","Eastern Silk Route","Coriander",171,1289,57.7,25,71,1,3,4,13.2693962958138,81,58,28,50,70,39,31,3,23,77,4
+"Lowland Volume Producers_38","Eastern Silk Route","Cumin",389,1156,50.2,26,65,0,6,4,15.4198116007106,69,82,17,51,70,36,57,4,51,82,4
+"Traditional Isolated Growers_17","Eastern Silk Route","Mixed Herbs",1487,999,73.2,17,59,0,8,2,12.6128722750338,51,71,3,30,49,0,264,3,,72,1
+"Lowland Volume Producers_37","Eastern Silk Route","Coriander",496,1293,61.8,22,69,0,6,5,17.9933124166745,92,38,23,55,60,37,33,4,4,95,4
+"High-Altitude Artisan Specialists_6","Western Silk Route","Cardamom",2435,592,76.8,15,92,1,10,3,4.15201252287397,63,100,38,75,79,47,237,4,16,95,10
+"Lowland Volume Producers_32","Eastern Silk Route","Turmeric",637,1380,59.1,23,72,0,8,2,12.6603857334954,86,63,20,68,57,23,30,4,0,82,1
+"High-Altitude Artisan Specialists_39","Central Silk Route","Mountain Thyme",2415,710,82.6,15,78,0,8,3,1.0116636903733,72,100,54,83,72,55,215,3,3,76,6
+"Traditional Isolated Growers_41","Eastern Silk Route","Mixed Herbs",1660,699,80.6,16,54,0,9,2,5.50076145540585,35,29,23,38,22,20,246,3,5,54,2
+"Traditional Isolated Growers_52","Western Silk Route","Local Peppers",1542,900,83,17,52,0,7,2,5.57633123971151,44,32,14,41,53,18,282,1,,62,1
+"Lowland Volume Producers_10","Eastern Silk Route","Coriander",481,1121,62.1,27,65,0,6,3,15.3172826540534,88,59,15,59,62,33,19,3,0,81,1
+"Traditional Isolated Growers_1","Eastern Silk Route","Local Peppers",1366,633,75.4,16,61,1,9,2,3.12342468664984,22,22,4,47,45,22,264,3,0,53,2
+"Developing Market Connectors_12","Eastern Silk Route","Cinnamon",556,978,75.1,22,77,1,6,4,6.76266972858855,82,86,35,74,75,43,102,4,52,83,7
+"Lowland Volume Producers_9","Eastern Silk Route","Coriander",341,1031,66.2,26,65,0,4,5,16.686245624746,86,81,21,72,62,26,68,3,20,74,5
+"Developing Market Connectors_47","Western Silk Route","Cinnamon",625,973,75.4,18,64,1,7,4,6.40885822498665,66,77,24,71,73,64,10,5,91,81,9
+"Traditional Isolated Growers_19","Eastern Silk Route","Wild Mint",1529,854,77,18,53,0,6,2,7.84495745353296,37,34,6,38,52,43,340,2,,69,1
+"High-Altitude Artisan Specialists_52","Central Silk Route","Saffron",2449,724,93.4,14,91,1,10,3,1.91967708247133,60,69,45,50,86,44,243,4,40,66,10
+"Lowland Volume Producers_57","Eastern Silk Route","Coriander",445,1274,55.3,24,61,0,6,4,15.5533558767926,86,38,8,51,60,18,90,3,23,86,3
+"Traditional Isolated Growers_37","Central Silk Route","Mixed Herbs",1747,834,66.7,19,71,0,6,3,5.87785620881898,44,41,13,49,45,17,192,1,10,63,2
+"Developing Market Connectors_37","Eastern Silk Route","Ginger",863,858,68.5,20,98,0,5,5,4.15558196059992,88,98,26,68,73,37,104,4,78,73,7
+"Traditional Isolated Growers_26","Central Silk Route","Mixed Herbs",1841,809,77.3,18,54,1,7,2,6.61336015165203,13,39,17,43,56,16,365,2,26,75,1
+"Traditional Isolated Growers_30","Central Silk Route","Mixed Herbs",1571,825,88,19,56,0,8,2,7.21808435156227,45,48,19,35,53,5,274,2,0,73,2
+"High-Altitude Artisan Specialists_1","Central Silk Route","Mountain Thyme",2231,727,94.6,13,79,1,9,2,0.5,76,86,40,65,89,47,65,5,44,84,8
+"Traditional Isolated Growers_9","Eastern Silk Route","Mixed Herbs",1808,836,71.8,20,54,1,8,1,6.94799673940656,45,65,11,48,48,0,307,1,20,53,4
+"Lowland Volume Producers_52","Eastern Silk Route","Turmeric",-276,1252,66.1,26,68,0,4,4,15.1168059720049,100,47,8,64,54,32,111,1,0,87,1
+"Lowland Volume Producers_23","Eastern Silk Route","Turmeric",335,1159,70.7,22,85,0,5,2,13.4138473607019,99,82,12,52,63,37,46,4,25,90,1
+"High-Altitude Artisan Specialists_73","Central Silk Route","Saffron",2156,555,81.6,10,98,,10,4,0.5,69,75,37,70,80,51,206,3,11,53,8
+"Developing Market Connectors_11","Western Silk Route","Ginger",390,944,66.8,21,75,1,9,5,4.42965305390254,98,100,27,65,78,60,195,3,100,84,5
+"Developing Market Connectors_23","Eastern Silk Route","Cumin",653,825,56,17,61,1,8,5,5.57655212600104,75,44,40,57,74,65,92,5,55,87,5
+"Traditional Isolated Growers_29","Eastern Silk Route","Mixed Herbs",1588,825,86.9,20,59,1,8,2,4.59492611210564,37,66,2,33,43,10,295,1,20,50,1
+"Lowland Volume Producers_50","Eastern Silk Route","Cumin",307,1062,50.6,26,48,0,7,3,12.9858846357717,76,59,16,74,64,29,10,3,2,100,3
+"Lowland Volume Producers_19","Eastern Silk Route","Coriander",28,1367,75.4,27,62,0,6,5,14.3912548417954,87,56,7,45,64,52,10,3,22,74,1
+"Developing Market Connectors_75","Western Silk Route","Cinnamon",1063,938,79.6,18,81,0,6,5,4.40819082177968,81,78,47,77,91,51,134,4,,79,2
+"Traditional Isolated Growers_47","Western Silk Route","Mixed Herbs",1249,892,87.5,21,61,0,8,2,10.3657036904201,55,53,21,23,67,27,307,2,24,64,1
+"Traditional Isolated Growers_49","Central Silk Route","Mixed Herbs",1347,790,74.2,15,78,0,9,4,7.25088689370106,34,41,0,35,58,2,349,2,37,41,2
+"Developing Market Connectors_65","Western Silk Route","Ginger",756,833,65.8,22,81,1,9,5,2.81870390709047,60,71,26,54,76,70,154,4,67,74,7
+"Lowland Volume Producers_54","Eastern Silk Route","Cumin",587,1029,66.6,28,64,0,7,3,14.6782513085864,100,43,,44,58,37,111,3,0,79,2
+"Traditional Isolated Growers_7","Central Silk Route","Local Peppers",1244,991,70.4,20,62,1,7,2,6.97112213904437,24,51,4,54,49,26,269,3,19,42,3
+"Traditional Isolated Growers_56","Western Silk Route","Mixed Herbs",1749,781,79.8,20,62,0,7,3,5.60679758460819,33,36,11,36,57,17,392,3,14,54,1
+"Developing Market Connectors_73","Eastern Silk Route","Cinnamon",430,1063,63.6,20,89,0,7,5,1.82506256737823,86,69,30,68,73,61,106,4,,95,5
+"High-Altitude Artisan Specialists_20","Western Silk Route","Cardamom",2808,627,86.2,10,100,1,7,2,1.91530280215317,71,100,26,86,98,39,269,4,38,64,9
+"Developing Market Connectors_5","Eastern Silk Route","Cinnamon",606,1078,75,19,81,0,8,5,5.46593574686468,77,62,36,60,76,57,10,5,80,96,6
+"Lowland Volume Producers_6","Eastern Silk Route","Cumin",261,1253,50.4,26,59,0,6,5,17.4294616301329,93,52,,68,86,12,47,4,41,82,3
+"Lowland Volume Producers_79","Eastern Silk Route","Cumin",373,1192,59.6,25,85,0,5,2,16.6687842780345,86,79,8,61,64,26,57,3,0,72,3
+"High-Altitude Artisan Specialists_60","Western Silk Route","Saffron",2615,572,90.3,17,94,1,10,4,5.06545794888243,61,60,40,73,79,43,204,3,0,76,10
+"High-Altitude Artisan Specialists_56","Central Silk Route","Saffron",2646,700,76.4,14,94,1,10,3,5.09015447943127,90,75,49,80,90,59,211,3,28,80,9
+"High-Altitude Artisan Specialists_9","Central Silk Route","Saffron",2701,707,74.8,12,100,1,10,3,3.11659243159731,68,85,37,73,92,36,160,4,47,59,9
+"Lowland Volume Producers_42","Eastern Silk Route","Turmeric",528,1319,65.2,23,66,1,5,5,13.0218217610012,100,60,4,66,60,29,59,3,27,82,2
+"Developing Market Connectors_1","Western Silk Route","Cumin",712,892,80.7,17,99,1,8,4,7.78211365672714,80,67,25,77,80,53,31,3,43,95,6
+"High-Altitude Artisan Specialists_2","Central Silk Route","Cardamom",2624,689,83.7,13,94,1,9,3,4.99304920044025,68,84,44,95,81,43,167,5,58,75,5
+"Lowland Volume Producers_90","Eastern Silk Route","Cumin",328,1212,64.7,23,63,0,5,3,17.23996629045,86,68,23,41,66,27,10,2,22,87,3
+"Lowland Volume Producers_21","Eastern Silk Route","Turmeric",400,1214,52.9,23,67,0,5,4,12.5665388118644,94,95,26,56,72,40,37,2,13,86,4
+"Lowland Volume Producers_4","Eastern Silk Route","Turmeric",274,1217,53.7,24,85,0,5,4,18.3967032099509,91,29,0,51,51,15,91,4,,93,1
+"Lowland Volume Producers_18","Eastern Silk Route","Turmeric",255,1172,59.7,25,57,1,5,5,16.4963175675179,94,41,11,60,56,20,10,2,11,80,3
+"Lowland Volume Producers_2","Eastern Silk Route","Turmeric",138,1273,54.3,24,81,0,6,5,13.7006081936007,100,46,23,41,59,44,17,3,0,100,2
+"High-Altitude Artisan Specialists_71","Western Silk Route","Cardamom",2466,775,71.1,13,93,1,9,4,4.6223328064637,79,47,38,67,77,74,226,4,19,69,9
+"Lowland Volume Producers_73","Eastern Silk Route","Cumin",168,1192,65.1,20,78,0,3,5,14.9181253087118,89,62,18,67,57,46,47,3,14,91,1
+"Traditional Isolated Growers_25","Central Silk Route","Local Peppers",1584,831,78.3,16,61,0,6,3,7.25631821752094,56,35,2,30,62,31,376,3,14,57,5
+"Lowland Volume Producers_27","Eastern Silk Route","Turmeric",341,1274,53.2,22,64,0,4,5,17.9411360601827,79,68,11,46,55,21,49,5,0,83,4
+"Traditional Isolated Growers_24","Eastern Silk Route","Wild Mint",1293,824,78.7,14,65,1,9,2,4.74879809427251,43,53,12,42,62,28,284,2,37,52,1
+"Developing Market Connectors_56","Eastern Silk Route","Cinnamon",975,1004,75.8,21,75,0,9,3,8.33531815405814,94,71,50,56,69,66,83,4,82,89,4
+"Lowland Volume Producers_36","Eastern Silk Route","Cumin",275,1377,60.3,24,74,0,4,3,16.129070093895,93,78,10,50,58,37,119,3,11,94,5
+"Developing Market Connectors_25","Eastern Silk Route","Cinnamon",876,1010,69.8,18,82,1,8,5,8.80734307262647,87,79,24,56,84,70,35,4,65,80,7
+"Traditional Isolated Growers_39","Western Silk Route","Local Peppers",1881,769,82.8,18,65,0,10,2,8.08963981161463,49,65,12,28,59,28,356,1,19,67,3
+"Developing Market Connectors_10","Western Silk Route","Cumin",812,1027,67.5,21,74,0,6,4,4.43880559039077,90,83,25,64,85,60,186,3,95,95,3
+"Developing Market Connectors_70","Western Silk Route","Cinnamon",723,1002,71.1,22,86,1,6,4,4.60759537503975,93,94,34,69,82,61,34,3,88,68,7
+"High-Altitude Artisan Specialists_51","Central Silk Route","Saffron",2367,587,87.4,12,100,1,8,1,1.68762412766655,62,86,35,60,73,30,271,4,31,65,10
+"Developing Market Connectors_54","Eastern Silk Route","Cinnamon",742,926,79.4,20,75,0,10,4,3.49274780213592,95,78,42,56,63,56,97,4,57,69,6
+"Developing Market Connectors_28","Western Silk Route","Ginger",989,1120,84.1,14,93,1,6,5,4.54078754667051,88,100,,61,78,58,169,4,79,83,4
+"Traditional Isolated Growers_12","Western Silk Route","Mixed Herbs",1282,991,81.4,16,60,1,9,2,3.13838193034439,48,31,0,31,44,10,327,1,,51,4
+"Traditional Isolated Growers_45","Eastern Silk Route","Wild Mint",1561,714,76.6,21,65,0,9,2,9.79404134984718,33,69,18,37,45,39,354,1,0,57,1
+"Developing Market Connectors_31","Eastern Silk Route","Cinnamon",854,1043,69.8,17,79,1,9,4,5.37057250329618,63,81,21,74,74,61,84,4,84,92,3
+"High-Altitude Artisan Specialists_33","Central Silk Route","Saffron",2100,646,87.5,12,100,1,8,3,4.61763614199187,73,86,,81,78,56,131,3,21,86,9
+"Developing Market Connectors_6","Eastern Silk Route","Cinnamon",658,1005,70.9,19,73,0,7,5,6.40061789271883,84,66,18,89,79,60,65,3,96,77,6
+"Traditional Isolated Growers_28","Central Silk Route","Wild Mint",1201,756,64.9,15,77,1,8,2,9.48899714369156,42,68,2,46,57,34,341,1,4,50,1
+"Lowland Volume Producers_20","Central Silk Route","Turmeric",472,1067,56.6,21,88,0,5,3,12.7450270708952,96,46,2,68,54,39,51,3,35,83,4
+"Developing Market Connectors_57","Eastern Silk Route","Cumin",800,830,80,16,79,0,7,4,3.35142961014599,95,80,36,58,90,51,173,3,57,84,8
+"Traditional Isolated Growers_2","Western Silk Route","Mixed Herbs",1319,761,62.9,20,63,0,7,3,8.90227609427082,39,57,20,48,53,22,300,3,18,52,3
+"High-Altitude Artisan Specialists_67","Western Silk Route","Saffron",2813,682,92.6,13,90,0,8,3,0.897963873484558,70,74,,86,78,54,177,5,56,78,10
+"Lowland Volume Producers_72","Eastern Silk Route","Coriander",70,1297,63.5,25,56,0,7,4,13.3322305756392,100,54,15,51,42,10,113,3,0,69,3
+"Lowland Volume Producers_44","Eastern Silk Route","Coriander",429,1144,55.2,28,84,0,6,3,16.4058553008434,94,63,22,56,74,42,25,4,,92,5
+"Lowland Volume Producers_77","Eastern Silk Route","Cumin",377,1242,70.4,26,60,0,5,3,15.9646953294035,82,73,5,56,75,42,46,3,14,100,4
+"Lowland Volume Producers_8","Central Silk Route","Cumin",798,1086,66.7,26,68,0,7,4,11.6637548695856,76,67,14,58,77,35,86,3,0,98,4
+"Developing Market Connectors_34","Eastern Silk Route","Cinnamon",898,938,69,19,83,0,3,5,2.10918802388859,83,79,32,62,70,63,34,3,73,80,5
+"High-Altitude Artisan Specialists_53","Western Silk Route","Saffron",2636,573,84.9,12,85,1,9,3,3.30915018113777,72,61,34,86,84,37,173,4,70,69,8
